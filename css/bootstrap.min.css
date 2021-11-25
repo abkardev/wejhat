@@ -3929,9 +3929,9 @@ fieldset:disabled .btn {
 .navbar-light .navbar-text a:focus {
   color: rgba(0, 0, 0, 0.9);
 }
-.navbar-dark .navbar-brand{
+.navbar-dark .navbar-brand h1{
   color: #fff;
-  content: url(..img/wejhat-logo-d.png);
+  
 }
 .navbar-dark .navbar-brand:hover,
 .navbar-dark .navbar-brand:focus {

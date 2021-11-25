@@ -25,16 +25,7 @@
         }
     });
 
-    $(function () { 
-        $(window).scroll(function () {
-            if ($(this).scrollTop() > 1000) { 
-                $('.navbar-dark .navbar-brand img').attr('src','img/wejhat-logo.png');
-            }
-            if ($(this).scrollTop() < 1000) { 
-                $('.navbar-light. navbar-brand img').attr('src','img/wejhat-logo-d.png');
-            }
-        })
-    });
+    
     
     // Dropdown on mouse hover
     const $dropdown = $(".dropdown");
