@@ -23,6 +23,7 @@ body{
   .ms-auto {
     margin-right: auto !important;
   }
+  
   .section-title-1::before,
   .section-title-2::before {
       position: absolute;
@@ -34,12 +35,17 @@ body{
       background: var(--primary);
       border-radius: 2px;
   } 
+  .section-title-1.text-center::before,
+.section-title-2.text-center::before {
+    right: 50%;
+    margin-right: -75px;
+}
 
   .ps-4 {
     padding-right: 1.5rem !important;
 }
 
-  @-webkit-keyframes section-title-run {
+@-webkit-keyframes section-title-run {
     0% {right: 0; } 50% { right : 145px; } 100% { right: 0; }
 }
 
