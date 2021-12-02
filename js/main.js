@@ -115,6 +115,7 @@
         dots: false,
         loop: true,
         autoplay: true,
+        rtl:true,
         smartSpeed: 1000,
         responsive: {
             0:{
