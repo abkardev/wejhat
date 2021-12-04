@@ -206,6 +206,10 @@ h6,
     background-image: url(../img/trucking1.jpg);
     background-size: cover;
   }
+  .bg-services {
+    background: linear-gradient(rgba(54, 64, 78, 0.9), rgba(9, 30, 62, .9)), url(../img/trucking1.jpg) center center no-repeat;
+    background-size: cover;
+  }
   .about .transport{
     background-image: url(../img/trucking1.jpg);
     background-size: cover;
