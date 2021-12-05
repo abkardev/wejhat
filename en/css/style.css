@@ -222,10 +222,10 @@ h6,
 }
 
 /* about page  */
-.vision-mision{
-    background: url(../img/map-bgw.jpg) no-repeat center top ;
-    background-size:contain;
-    opacity: 0.4;
+.vision-mission{
+    background: linear-gradient(rgba(200, 201, 202, 0.7), rgba(246, 247, 248, 0.9)),  url(../img/map-bgw.jpg) no-repeat center center ;
+    background-size:cover;
+    
 }
 
 
