@@ -225,6 +225,10 @@ h6,
     left: 0;
     position: absolute;
 }
+.bg-header-2{
+    background-image: url(../img/wejhat2.jpg);
+    background-size: cover;
+}
 
 /* about page  */
 .vision-mission{
