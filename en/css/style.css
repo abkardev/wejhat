@@ -153,7 +153,7 @@ h6,
 .navbar-light .navbar-brand img {
     max-height: 80px;
     transition: .5s;
-    content: url(../img/Horizontal-InverseMedium.png);    
+    content: url(../img/Vertical-InverseMedium.png);    
 
 }
 
@@ -257,7 +257,7 @@ h6,
 
     .navbar-light .navbar-brand img {
         max-height: 45px;
-        content: url(../img/wejlogo-b.png);
+        content: url(../img/Horizontal-ColorMedium.png);
     }
     .navbar-light .vision  {
         max-height: 45px;
