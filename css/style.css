@@ -153,13 +153,13 @@ h6,
 .navbar-light .navbar-brand img{
     max-height: 80px;
     transition: .5s;
-    content: url(../img/Horizontal-Inverse.svg);    
+    content: url(../img/Horizontal-InverseMedium.png);    
 }
 
 
 .sticky-top.navbar-light .navbar-brand  img{
     max-height: 70px;
-    content: url(../img/Horizontal-Color.svg);
+    content: url(../img/Horizontal-ColorMedium.png);
 
 }
 .navbar-light .vision {
